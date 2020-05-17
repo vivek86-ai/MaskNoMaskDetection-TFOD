@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Detection</folder>
+	<filename>depositphotos-8449546-stock-photo-flu-illness-child-boy-in.jpg</filename>
+	<path>C:\Users\Vivek\Desktop\Detection\depositphotos-8449546-stock-photo-flu-illness-child-boy-in.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1023</width>
+		<height>749</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>323</xmin>
+			<ymin>7</ymin>
+			<xmax>804</xmax>
+			<ymax>590</ymax>
+		</bndbox>
+	</object>
+</annotation>

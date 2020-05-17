@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Detection</folder>
+	<filename>surgical-mask-49701-blue.jpg</filename>
+	<path>C:\Users\Vivek\Desktop\Detection\surgical-mask-49701-blue.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1500</width>
+		<height>1500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>483</xmin>
+			<ymin>39</ymin>
+			<xmax>1180</xmax>
+			<ymax>1212</ymax>
+		</bndbox>
+	</object>
+</annotation>

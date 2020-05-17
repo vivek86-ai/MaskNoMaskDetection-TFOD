@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Detection</folder>
+	<filename>ds1917.jpg</filename>
+	<path>C:\Users\Vivek\Desktop\Detection\ds1917.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>252</xmin>
+			<ymin>39</ymin>
+			<xmax>534</xmax>
+			<ymax>508</ymax>
+		</bndbox>
+	</object>
+</annotation>

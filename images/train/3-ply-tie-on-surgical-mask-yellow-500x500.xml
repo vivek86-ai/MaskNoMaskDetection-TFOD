@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Detection</folder>
+	<filename>3-ply-tie-on-surgical-mask-yellow-500x500.jpg</filename>
+	<path>C:/Users/Vivek/Desktop/Detection/3-ply-tie-on-surgical-mask-yellow-500x500.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>6</ymin>
+			<xmax>425</xmax>
+			<ymax>492</ymax>
+		</bndbox>
+	</object>
+</annotation>

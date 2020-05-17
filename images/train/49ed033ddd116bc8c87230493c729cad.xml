@@ -1,0 +1,26 @@
+<annotation>
+	<folder>No Mask</folder>
+	<filename>49ed033ddd116bc8c87230493c729cad.jpg</filename>
+	<path>C:\Users\Vivek\Desktop\Detection\No Mask\49ed033ddd116bc8c87230493c729cad.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>235</width>
+		<height>288</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>No Mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>35</ymin>
+			<xmax>226</xmax>
+			<ymax>279</ymax>
+		</bndbox>
+	</object>
+</annotation>

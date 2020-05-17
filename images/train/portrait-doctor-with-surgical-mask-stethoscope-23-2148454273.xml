@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Detection</folder>
+	<filename>portrait-doctor-with-surgical-mask-stethoscope-23-2148454273.jpg</filename>
+	<path>C:\Users\Vivek\Desktop\Detection\portrait-doctor-with-surgical-mask-stethoscope-23-2148454273.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>626</width>
+		<height>417</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>391</xmin>
+			<ymin>28</ymin>
+			<xmax>485</xmax>
+			<ymax>157</ymax>
+		</bndbox>
+	</object>
+</annotation>

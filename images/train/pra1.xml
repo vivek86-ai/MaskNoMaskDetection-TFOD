@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Detection</folder>
+	<filename>pra1.jpg</filename>
+	<path>C:\Users\Vivek\Desktop\Detection\pra1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3456</width>
+		<height>4608</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>566</xmin>
+			<ymin>1036</ymin>
+			<xmax>3209</xmax>
+			<ymax>3857</ymax>
+		</bndbox>
+	</object>
+</annotation>

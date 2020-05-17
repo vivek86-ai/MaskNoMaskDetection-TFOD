@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Detection</folder>
+	<filename>grid-wide-surgical-mask-at752007.jpg</filename>
+	<path>C:\Users\Vivek\Desktop\Detection\grid-wide-surgical-mask-at752007.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>574</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>437</xmin>
+			<ymin>10</ymin>
+			<xmax>835</xmax>
+			<ymax>501</ymax>
+		</bndbox>
+	</object>
+</annotation>

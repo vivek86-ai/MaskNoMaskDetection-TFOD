@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>482.jpg</filename>
+	<path>C:\Users\Vivek\Desktop\test\482.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>428</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>No Mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>93</xmin>
+			<ymin>114</ymin>
+			<xmax>287</xmax>
+			<ymax>365</ymax>
+		</bndbox>
+	</object>
+</annotation>

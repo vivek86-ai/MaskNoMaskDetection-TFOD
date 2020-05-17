@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Detection</folder>
+	<filename>HTB1hSsNjsuYBuNkSmRyq6AA3pXaR-jpg-350x350.jpg</filename>
+	<path>C:\Users\Vivek\Desktop\Detection\HTB1hSsNjsuYBuNkSmRyq6AA3pXaR-jpg-350x350.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>350</width>
+		<height>350</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>96</xmin>
+			<ymin>13</ymin>
+			<xmax>231</xmax>
+			<ymax>193</ymax>
+		</bndbox>
+	</object>
+</annotation>

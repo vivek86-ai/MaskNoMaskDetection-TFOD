@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Detection</folder>
+	<filename>FLUIDSHIELD-N95-RESPIRATOR-REGULAR-PFR95-170-24511871.jpg</filename>
+	<path>C:\Users\Vivek\Desktop\Detection\FLUIDSHIELD-N95-RESPIRATOR-REGULAR-PFR95-170-24511871.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>999</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>328</xmin>
+			<ymin>86</ymin>
+			<xmax>890</xmax>
+			<ymax>764</ymax>
+		</bndbox>
+	</object>
+</annotation>
